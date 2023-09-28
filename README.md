@@ -30,8 +30,7 @@ Okay, since I never worked with lsts before I set a markdown map using the VSCod
 ### ft_lstiter
 ### ft_lstmap
 ```
-This extension is supper easy to use and this is the result:
-![markdown](mapofbonus.md)
+This extension is supper easy to use and really helps.
 
 ### Personal Step 2:
 Learn about lists...
