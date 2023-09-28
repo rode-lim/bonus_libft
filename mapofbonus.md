@@ -12,7 +12,7 @@
 
 ## Functions
 
-### ~~ft_lstnew~~
+### ft_lstnew
 ### ft_lstadd_front
 ### ft_lstsize
 ### ft_lstlast
