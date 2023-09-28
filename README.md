@@ -136,7 +136,9 @@ typedef struct	s_list //start of the struct
 }	t_list; //Name
 ```
 Now we assume this:
+
 ![box](Untitled.png)
+
 The box and its content and the next is a node or our list. Here we give content and the next points to `NULL` so the arrow points nowhere
 Content = Inside the box
 Next = What the list points to
