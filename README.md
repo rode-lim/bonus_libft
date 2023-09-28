@@ -139,13 +139,13 @@ Now we assume this:
 
 ![box](Untitled.png)
 
-Content = Inside the box
+Content = Inside the box (so `n->content = content;`)
 
-Next = What the list points to
+Next = What the list points to (so `n->next = NULL;`)
 
 Here we give next a point to `NULL` so the arrow points nowhere
 
-Node = The box
+Node = The box is the list we create, in this case the `t_list	n;`.
 
 ### ft_lstadd_front
 The first step is to add our library and our prototip of the function:
