@@ -139,9 +139,12 @@ Now we assume this:
 
 ![box](Untitled.png)
 
-The box and its content and the next is a node or our list. Here we give content and the next points to `NULL` so the arrow points nowhere
 Content = Inside the box
+
 Next = What the list points to
+
+Here we give content and the next points to `NULL` so the arrow points nowhere
+
 Node = The box
 
 ### ft_lstadd_front
