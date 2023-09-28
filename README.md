@@ -143,7 +143,7 @@ Content = Inside the box
 
 Next = What the list points to
 
-Here we give content and the next points to `NULL` so the arrow points nowhere
+Here we give next a point to `NULL` so the arrow points nowhere
 
 Node = The box
 
